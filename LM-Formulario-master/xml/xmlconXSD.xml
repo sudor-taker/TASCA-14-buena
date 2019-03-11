@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions>
+<questions>
+	<question>
+		<type>text</type>
+		<title>1. ¿Ignatius Farray canta mal? Contesta sí o demasiado.</title>
+			<answer>demasiado</answer>
+			<answer>Demasiado</answer>
+			<answer>DEMASIADO</answer>
+	</question>
+	<question>
+		<type>text</type>
+		<title>2. Sigue la canción: De qué sirven tantas rosaaaaaaaaas si prefieres las ______</title>
+			<answer>espinas</answer>
+			<answer>Espinas</answer>
+			<answer>ESPINAS</answer>
+	</question>
+	<question>
+		<type>select</type>
+		<title>3. ¿Quién cantó con Willyrex la cover de "Paradise" en el torneo benéfico de Ibai?</title>
+		<option>Ibai</option>
+					<option>Ebay</option>
+					<option>Tinder</option>
+					<option>Mónica</option>
+					<option>Zapato</option>
+			<answer>0</answer> 
+	</question>
+	<question>
+		<type>select</type>
+		<title>4. Nombre del periquito del vídeo de un chaval enterrando dicho periquito que se lo pilla el perro pero al final lo recupera</title>
+				<option>Ximuelo</option>
+				<option>Chimuelo</option>
+				<option>Tinder</option>
+				<option>Mónica</option>
+				<option>Ibai</option>
+			<answer>1</answer> 
+	</question>		 
+	<question>
+		<type>multiple</type>
+		<title>5. ¿En qué posición quedó Rodolfo Chikilicuatre en Eurovisión 2008? </title>
+		<option>15</option>
+				<option>16</option>
+				<option>20</option>
+				<option>Ibai</option>
+				<option>14</option>
+				<option>12</option>
+				<option>11</option>
+				<option>17</option>
+				<option>9</option>
+				<option>5</option> 
+				<option>Decimosexto</option>
+			<answer>1</answer>
+			<answer>10</answer>
+	</question>
+	<question>
+		<type>multiple</type>
+		<title>6. ¿Cuántas visitas tiene el vídeo de Rosas y Espinas?</title>
+				<option>877.272</option>
+				<option>878.272</option>
+				<option>979.272</option>
+				<option>780.272</option>
+				<option>681.272</option>
+				<option>582.272</option>
+				<option>Ibai</option>
+				<option>484.272</option>
+				<option>385.272</option>
+				<option>ochocientos setenta y siete mil dos cientos setenta y dos</option> 
+				<option>276.272</option>
+			<answer>0</answer>
+			<answer>9</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>7. Rapero invitado al late night de Monedero el día que rapeo</title>
+				<option>Chuty</option>
+				<option>Sergio Castro Gisbert</option> 
+				<option>Mónica Pal Kumari  </option> 
+				<option>Ibai Llanos</option>
+			<answer>0</answer>
+			<answer>1</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>8. La salchipapa es una clase de </title>
+				<option>Comida</option>
+				<option>Coche</option> 
+				<option>Alimento</option> 
+				<option>Ibai</option>
+			<answer>0</answer>
+			<answer>2</answer>
+	</question>
+	<question >
+		<type>radio</type>
+		<title>9. Youtuber que hizo famosa la canción de "EH VEGETA, EH VEGETA"</title>
+				<option>Percha</option>
+				<option>Ibai</option> 
+				<option>Perxitaa</option> 
+				<option>Vegeta</option>
+			<answer>2</answer>
+	</question>
+	<question>
+		<type>radio</type>
+		<title>10. Animal extinguido y chiquitito</title>
+				<option>EL MICROPACHYCEPHALOSAURUS</option>
+				<option>EL Ibai</option> 
+				<option>EL PERRO</option> 
+				<option>El MAMUT</option>
+			<answer>3</answer>		  
+	</question>		 
+</questions>	
