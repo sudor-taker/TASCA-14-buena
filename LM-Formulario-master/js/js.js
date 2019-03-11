@@ -1,5 +1,5 @@
 // fichero xml que está en el servidor rawgit
-var url="xml/xmlconXSD.xml";
+var url="https://raw.githack.com/sudor-taker/TASCA-14-buena/master/LM-Formulario-master/xml/xmlconXSD.xml";
 
 //Variables
 var i = 0;
